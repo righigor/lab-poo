@@ -31,6 +31,7 @@ Cada atividade estará organizada em sua própria pasta contendo o código-fonte
 ## 🗂 Atividades
 
 - [Atividade 00 - Ponto2D](https://github.com/righigor/lab-poo/tree/main/src/atividade00)
+- [Atividade 01 - Reta](https://github.com/righigor/lab-poo/tree/main/src/atividade01)
 
 ---
 
