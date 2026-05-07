@@ -1,3 +1,5 @@
+package atividade04;
+
 public class Produto {
     private String codigo;
     private String descricao;

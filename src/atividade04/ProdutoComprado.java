@@ -1,3 +1,4 @@
+package atividade04;
 
 public class ProdutoComprado extends Produto {
     private int quantidade;

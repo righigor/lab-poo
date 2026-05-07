@@ -1,3 +1,5 @@
+package atividade04;
+
 import java.util.HashMap;
 
 public class Estoque {

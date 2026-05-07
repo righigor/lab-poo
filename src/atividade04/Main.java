@@ -1,3 +1,8 @@
+import atividade04.Conta;
+import atividade04.Estoque;
+import atividade04.Produto;
+import atividade04.ProdutoComprado;
+
 void main() {
     Scanner scanner = new Scanner(System.in);
     Estoque estoque = new Estoque();
